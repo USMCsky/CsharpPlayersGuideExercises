@@ -1,0 +1,14 @@
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.exe
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.deps.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\refint\TheFourSistersAndTheDuckbear.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\ref\TheFourSistersAndTheDuckbear.dll

@@ -1,1 +1,1 @@
-# CsharpPlayersGuideExercises
+# C# Players Guide Book RB Whitaker - exercise solutions

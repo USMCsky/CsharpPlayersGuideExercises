@@ -1,0 +1,14 @@
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.exe
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.deps.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.runtimeconfig.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.AssemblyInfoInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.AssemblyInfo.cs
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.csproj.CoreCompileInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\refint\TheVariableShopReturns.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.genruntimeconfig.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\ref\TheVariableShopReturns.dll

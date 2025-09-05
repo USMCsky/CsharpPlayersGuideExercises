@@ -1,0 +1,14 @@
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\bin\Debug\net6.0\SimulasTest.exe
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\bin\Debug\net6.0\SimulasTest.deps.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\bin\Debug\net6.0\SimulasTest.runtimeconfig.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\bin\Debug\net6.0\SimulasTest.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\bin\Debug\net6.0\SimulasTest.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\SimulasTest.AssemblyInfoInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\SimulasTest.AssemblyInfo.cs
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\SimulasTest.csproj.CoreCompileInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\SimulasTest.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\refint\SimulasTest.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\SimulasTest.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\SimulasTest.genruntimeconfig.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level16-Enumerations\SimulasTest\obj\Debug\net6.0\ref\SimulasTest.dll

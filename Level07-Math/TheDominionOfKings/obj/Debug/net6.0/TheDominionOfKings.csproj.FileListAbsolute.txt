@@ -1,0 +1,14 @@
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.exe
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.deps.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.runtimeconfig.json
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.AssemblyInfoInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.AssemblyInfo.cs
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\refint\TheDominionOfKings.dll
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.pdb
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.genruntimeconfig.cache
+C:\Users\ezabi\source\repos\CsharpPlayersGuide\Level07-Math\TheDominionOfKings\obj\Debug\net6.0\ref\TheDominionOfKings.dll
